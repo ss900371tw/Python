@@ -1,0 +1,6 @@
+{   "Banana": 3, 
+    "Apple": 5, 
+    "Watermelon": 1, 
+    "Peach": 6, 
+    "Tomato": 20
+}
